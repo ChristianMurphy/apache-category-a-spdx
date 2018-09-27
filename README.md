@@ -1,7 +1,8 @@
 # apache-category-a-spdx
 
 Apache Category A approved licenses in a machine readable format using [SPDX](https://spdx.org).
-Adapted from https://www.apache.org/legal/resolved.html#what-can-we-include-in-an-asf-project-category-a
+
+Adapted from <https://www.apache.org/legal/resolved.html#what-can-we-include-in-an-asf-project-category-a>
 
 ## Installation
 
