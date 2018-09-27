@@ -37,6 +37,7 @@ module.exports = [
   "ZPL-2.0",
   // ACE license
   // Oracle Universal Permissive License (UPL) Version 1.0
-  "Open Grid Forum License"
+  "Open Grid Forum License",
   // Google "Additional IP Rights Grant (Patents)" file
+  "CC0-1.0"
 ];
